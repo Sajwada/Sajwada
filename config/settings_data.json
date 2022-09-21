@@ -1,0 +1,692 @@
+{
+  "current": {
+    "color_header_bg": "#ae0065",
+    "color_header_links": "#ffffff",
+    "color_body_bg": "#fad3ea",
+    "color_content_bg": "#ffffff",
+    "color_body_headings": "#be0055",
+    "color_body_text": "#120101",
+    "color_button_bg": "#000000",
+    "color_button_text": "#fafafa",
+    "color_footer_bg": "#ffffff",
+    "color_footer_text": "#be0055",
+    "color_hero_text": "#ffffff",
+    "color_hero_bg": "#ffffff",
+    "type_accent_family": "chivo_n4",
+    "type_accent_spacing": false,
+    "type_accent_transform": true,
+    "type_base_family": "sans-serif",
+    "type_base_size": "14px",
+    "type_nav_size": "14px",
+    "type_nav_spacing": false,
+    "type_nav_transform": true,
+    "product_vendor_enable": false,
+    "social_facebook_link": "https:\/\/www.facebook.com\/suncitybeads",
+    "social_twitter_link": "https:\/\/twitter.com\/SuncityBeads",
+    "social_pinterest_link": "https:\/\/in.pinterest.com\/suncity_beads\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/suncity_beads_official\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/c\/sourabhjainp",
+    "favicon": "shopify:\/\/shop_images\/logo_transparent_56741af9-055c-4610-a1d4-1a5db7e69f9c.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/A_New_Design_-_Made_with_PosterMyWall_b5ddd760-89e5-4f9f-8030-d8324c58e4e3.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_accent_color": "#006eff",
+    "checkout_button_color": "#006eff",
+    "checkout_banner_background_color": "#fff",
+    "checkout_call_to_action_color": "#006eff",
+    "checkout_use_header_image": false,
+    "color_newsletter_input": "#1a1a1a",
+    "sections": {
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "7570424e-acb2-484f-ab7c-3ecd6e37be25": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Ganesh_Chatruthi_-_Made_with_PosterMyWall_3.png",
+              "image_position": "center center",
+              "title": "",
+              "button_label": "View",
+              "button_link": "shopify:\/\/collections\/new-arrivals"
+            }
+          },
+          "placeholder-0": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/A_New_Design_-_Made_with_PosterMyWall_4.jpg",
+              "image_position": "center center",
+              "title": "",
+              "button_label": "Shop",
+              "button_link": "shopify:\/\/collections\/beads"
+            }
+          },
+          "placeholder-1": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/A_New_Design_-_Made_with_PosterMyWall_2_58b673fd-7b02-45ae-875c-69338a126800.jpg",
+              "image_position": "center center",
+              "title": "",
+              "button_label": "",
+              "button_link": "shopify:\/\/collections\/findings"
+            }
+          },
+          "75f0c551-66a9-48d1-af62-8a250e220fa4": {
+            "type": "slide",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/colorful-beads-arranged-in-pots-on-a-table.jpg",
+              "image_position": "center center",
+              "title": "",
+              "button_label": "View all products",
+              "button_link": "shopify:\/\/collections\/seed-beads"
+            }
+          }
+        },
+        "block_order": [
+          "7570424e-acb2-484f-ab7c-3ecd6e37be25",
+          "placeholder-0",
+          "placeholder-1",
+          "75f0c551-66a9-48d1-af62-8a250e220fa4"
+        ],
+        "settings": {
+          "hero_home_height": "small",
+          "hero_home_auto": true,
+          "hero_home_auto_speed": 5
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "linklist": {
+            "type": "menu",
+            "settings": {
+              "link_list": "footer"
+            }
+          },
+          "013a7b8c-0434-4ec2-9d4f-b09d775972ee": {
+            "type": "text",
+            "settings": {
+              "title": "Blogs",
+              "text": "<p><a href=\"\/blogs\/news\" target=\"_blank\" title=\"News\">Blog<\/a><\/p><p><a href=\"https:\/\/www.youtube.com\/results?search_query=suncity+beads\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/results?search_query=suncity+beads\">YouTube<\/a><\/p>"
+            }
+          },
+          "b9d2d67e-02f6-41da-89bb-f18a7386aad7": {
+            "type": "text",
+            "settings": {
+              "title": "Social Media",
+              "text": "<p><a href=\"https:\/\/www.facebook.com\/suncitybeads\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/suncitybeads\">Facebook<\/a><\/p><p><a href=\"https:\/\/www.instagram.com\/suncity_beads_official\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/suncity_beads_official\/\">Instagram<\/a><\/p><p><a href=\"https:\/\/in.pinterest.com\/sajwada\/\" target=\"_blank\" title=\"https:\/\/in.pinterest.com\/sajwada\/\">Pintrest<\/a><\/p><p><a href=\"https:\/\/twitter.com\/SuncityBeads\" target=\"_blank\" title=\"https:\/\/twitter.com\/SuncityBeads\">Twitter<\/a><\/p><p><a href=\"https:\/\/twitter.com\/SuncityBeads\" target=\"_blank\" title=\"https:\/\/twitter.com\/SuncityBeads\">YouTube<\/a><\/p>"
+            }
+          },
+          "6332159e-4df3-459c-b4e8-8734dd7995f4": {
+            "type": "text",
+            "settings": {
+              "title": "Contact Us",
+              "text": "<p>Contact Us<\/p><p><strong>Suncity Beads : <\/strong><a href=\"https:\/\/www.google.com\/maps?q=suncity+beads&rlz=1C1CHZL_enIN810IN810&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjA7LLI76f5AhUWQd4KHfskBqgQ_AUoAHoECAIQCg\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps?q=suncity+beads&rlz=1C1CHZL_enIN810IN810&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjA7LLI76f5AhUWQd4KHfskBqgQ_AUoAHoECAIQCg\">183, Kika St, Marine Lines East,<\/a><\/p><p><a href=\"https:\/\/www.google.com\/maps?q=suncity+beads&rlz=1C1CHZL_enIN810IN810&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjA7LLI76f5AhUWQd4KHfskBqgQ_AUoAHoECAIQCg\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps?q=suncity+beads&rlz=1C1CHZL_enIN810IN810&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjA7LLI76f5AhUWQd4KHfskBqgQ_AUoAHoECAIQCg\">Jamli Mohalla, Gulal Wadi, Bhuleshwar, Mumbai, Maharashtra - 400004<\/a><\/p><p><strong>Cell :<\/strong><\/p><p>+91 9987810189<\/p><p><strong>Email Id :<\/strong> promotionsuncity@gmail.com<\/p>"
+            }
+          },
+          "4b176dd8-2664-4308-8cbd-779da9c18f23": {
+            "type": "newsletter",
+            "settings": {
+              "color_newsletter_input": "#e1e1e1",
+              "color_newsletter_input_text": "#a91b8d",
+              "title": "Subscribe to our emails",
+              "subheading": ""
+            }
+          },
+          "0e924315-f05c-4825-b09e-d44097d3e355": {
+            "type": "text",
+            "settings": {
+              "title": "Collections",
+              "text": "<p><a href=\"\/collections\/beads\" target=\"_blank\" title=\"Beads\"><strong>Beads <\/strong><\/a><strong>:<\/strong> <a href=\"\/collections\/agate-beads\" target=\"_blank\" title=\"Agate Beads\">agate beads<\/a> | <a href=\"\/collections\/8mm-agate-beads\" target=\"_blank\" title=\"4mm Agate Beads\">4mm agate beads<\/a> | <a href=\"\/collections\/6mm\" target=\"_blank\" title=\"6mm Agate Beads\">6mm agate beads<\/a> | <a href=\"\/collections\/8mm-agate-beads-1\" target=\"_blank\" title=\"8mm Agate Beads\">8mm agate beads<\/a> | <a href=\"\/collections\/10mm-agate-beads\" target=\"_blank\" title=\"10mm Agate Beads\">10mm agate beads<\/a> | <a href=\"\/collections\/12mm\" target=\"_blank\" title=\"12mm Agate Beads\">12mm agate beads<\/a> | <a href=\"\/collections\/tumble-stone-beads\" target=\"_blank\" title=\"Tumble Stone Beads\">tumble stone beads<\/a> | <a href=\"\/collections\/flat-tumble-beads\" target=\"_blank\" title=\"Flat Tumble Beads\">flat tumble stone beads<\/a> | <a href=\"\/collections\/monalisa-beads\" target=\"_blank\" title=\"Monalisa Beads\">monalisa stone beads<\/a> | <a href=\"\/collections\/uncute-glass-beads\" target=\"_blank\" title=\"Uncute Glass Beads\">uncut glass beads<\/a> | <a href=\"\/collections\/crystal-beads\" target=\"_blank\" title=\"Crystal Beads\">crystal beads<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=2mm+crystal+beads&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=2mm+crystal+beads&options%5Bprefix%5D=last\">2mm crystal beads<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=4mm+crystal+beads&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=4mm+crystal+beads&options%5Bprefix%5D=last\">4mm crystal beads<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=6mm+crystal+beads&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=6mm+crystal+beads&options%5Bprefix%5D=last\">6mm crystal beads<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=8mm+crystal+beads&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=8mm+crystal+beads&options%5Bprefix%5D=last\">8mm crystal beads<\/a> | <a href=\"\/collections\/fancy-beads\" target=\"_blank\" title=\"Fancy Beads\">fancy beads<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=agate+tumble+stone+beads&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=agate+tumble+stone+beads&options%5Bprefix%5D=last\">agate tumble stone beads<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=flower+carving+beads&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=flower+carving+beads&options%5Bprefix%5D=last\">flower carving beads<\/a> | <a href=\"\/collections\/seed-beads\" target=\"_blank\" title=\"Seed Beads\">seed beads<\/a> | <a href=\"\/collections\/seed-beads\" target=\"_blank\" title=\"Seed Beads\">kidiya moti<\/a> | <a href=\"\/collections\/seed-beads\" target=\"_blank\" title=\"Seed Beads\">sugar beads<\/a> | <a href=\"\/collections\/pearl-beads\" target=\"_blank\" title=\"Pearl Beads\">pearl beads<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=metalic+pearl+beads&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=metalic+pearl+beads&options%5Bprefix%5D=last\">metallic pearl beads<\/a> | <a href=\"\/collections\/ganthan-beaded-chain\" target=\"_blank\" title=\"Ganthan \/ Beaded Chain\">guthan chain<\/a> | <a href=\"https:\/\/dtcb8p4dnbzqr76m-55188488269.shopifypreview.com\/collections\/ganthan-beaded-chain\" target=\"_blank\" title=\"Ganthan \/ Beaded Chain\">beaded chain<\/a> | <a href=\"\/collections\/ganthan-beaded-chain\" target=\"_blank\" title=\"Ganthan \/ Beaded Chain\">beads chain<\/a><\/p><p><a href=\"\/collections\/kundan-components\" target=\"_blank\" title=\"Kundan Components\"><strong>Kundan Components<\/strong><\/a><strong> : <\/strong><a href=\"\/collections\/kundan-vilandi-dabi\" target=\"_blank\" title=\"Kundan Vilandi Dabi\">kundan vilandi dabi<\/a> | <a href=\"\/collections\/kundan-brooch\" target=\"_blank\" title=\"Kundan Brooch\">kundan broach<\/a> | <a href=\"\/collections\/kundan-beads\" target=\"_blank\" title=\"Kundan Beads\">meenakari & jadau beads<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=ad+balls&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=ad+balls&options%5Bprefix%5D=last\">ad balls<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=meenakari+jhumka+&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=meenakari+jhumka+&options%5Bprefix%5D=last\">meenakari jhumki<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=rakhi+raw+material&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=rakhi+raw+material&options%5Bprefix%5D=last\">rakhi raw material<\/a> | <a href=\"\/collections\/victorian-kundan-brooch\" target=\"_blank\" title=\"Victorian Kundan Brooch\">victorian brooch<\/a> | <a href=\"\/collections\/ad-brooch\" target=\"_blank\" title=\"AD Kundan Brooch\">american diamond brooch<\/a> | <a href=\"https:\/\/dtcb8p4dnbzqr76m-55188488269.shopifypreview.com\/collections\/ad-brooch\" target=\"_blank\" title=\"AD Kundan Brooch\">cubic zirconia brooch<\/a> | <a href=\"\/collections\/ad-brooch\" target=\"_blank\" title=\"AD Kundan Brooch\">cz brooch<\/a> | <a href=\"\/collections\/ad-brooch\" target=\"_blank\" title=\"AD Kundan Brooch\">ad brooch<\/a> | <a href=\"\/collections\/lakh-kundan-pendant\" target=\"_blank\" title=\"Lakh Kundan Pendant\">lakh kundan pendant<\/a> | <a href=\"\/collections\/kundan-pendant\" target=\"_blank\" title=\"Kundan Pendant\">kundan pendant<\/a><\/p><p><a href=\"\/collections\/metal-oxidized\" target=\"_blank\" title=\"Metal Oxidized\"><strong>Metal Oxidize<\/strong><\/a><strong> : <\/strong><a href=\"\/collections\/oxidize-metal-beads\" target=\"_blank\" title=\"Oxidize Beads\">oxidize beads<\/a> | <a href=\"https:\/\/suncitybeads.com\/search?q=oxidize+ball\" target=\"_blank\" title=\"https:\/\/suncitybeads.com\/search?q=oxidize+ball\">oxidize balls <\/a>| <a href=\"\/collections\/caps\" target=\"_blank\" title=\"Beads Caps\">oxidize caps<\/a> | <a href=\"\/collections\/connector-divider\" target=\"_blank\" title=\"Connector \/ Divider\">oxidize divider<\/a> | <a href=\"\/collections\/oxidize-metal-charms\" target=\"_blank\" title=\"Oxidize Charms\">oxidize charms<\/a> | <a href=\"\/collections\/oxidize-pendants\" target=\"_blank\" title=\"Oxidize Pendants\">oxidize pendants<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=oxidize+earring+base&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=oxidize+earring+base&options%5Bprefix%5D=last\">oxidize earring base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=oxidize+jhumka+base&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=oxidize+jhumka+base&options%5Bprefix%5D=last\">oxidize jhumka base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=ghungaroo&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=ghungaroo&options%5Bprefix%5D=last\">oxidize bell<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=ghungaroo&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=ghungaroo&options%5Bprefix%5D=last\">oxidize gungaroo<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=oxidize+spacer&options%5Bprefix%5D=last\" target=\"_blank\" title=\"oxidize spacer\">oxidize spacer<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=oxidize+spacer&options%5Bprefix%5D=lastv\" target=\"_blank\" title=\"beads spacer\">beads spacer<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=oxidize+chakari&options%5Bprefix%5D=last\" target=\"_blank\" title=\"oxidize chakari\">oxidize chakari<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=chakri&options%5Bprefix%5D=last\" target=\"_blank\" title=\"chakari\">chakari<\/a><\/p><p><a href=\"https:\/\/dtcb8p4dnbzqr76m-55188488269.shopifypreview.com\/collections\/findings\" target=\"_blank\" title=\"Findings\"><strong>FINDING<\/strong><\/a><strong> : <\/strong><a href=\"\/collections\/earring-findings\" target=\"_blank\" title=\"Earring Findings\">earring findings<\/a> | <a href=\"\/collections\/findings\" target=\"_blank\" title=\"Findings\">all findings<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=ring&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=ring&options%5Bprefix%5D=last\">ring findings<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=dori&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=dori&options%5Bprefix%5D=last\">Necklace back dori (rope)<\/a> | <a href=\"\/collections\/metal-chain\" target=\"_blank\" title=\"Metal Chain\">metal chain<\/a> | <a href=\"https:\/\/www.sajwada.com\/search?q=Wire\" target=\"_blank\" title=\"Wire & thread\">Wire & thread<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=hooks&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=hooks&options%5Bprefix%5D=last\">hooks<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=earring+base&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=earring+base&options%5Bprefix%5D=last\">earring base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=earring+stud&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=earring+stud&options%5Bprefix%5D=last\">earring stud<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=earring+hook&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=earring+hook&options%5Bprefix%5D=last\">earring hooks<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=earring+back+button&options%5Bprefix%5D=last\" target=\"_blank\" title=\"earring back button \">earring back button<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=tool&options%5Bprefix%5D=last\" target=\"_blank\" title=\"https:\/\/naturalbeads.myshopify.com\/search?q=tool&options%5Bprefix%5D=last\">jewelry tool<\/a> | <a href=\"https:\/\/dtcb8p4dnbzqr76m-55188488269.shopifypreview.com\/collections\/caps\" target=\"_blank\" title=\"Beads Caps\">caps<\/a>| |<a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=silver+cap&options%5Bprefix%5D=lasthttps:\/\/naturalbeads.myshopify.com\/search?q=silver+cap&options%5Bprefix%5D=last\" target=\"_blank\" title=\"silver caps\">silver caps<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=golden+cap&options%5Bprefix%5D=last\" target=\"_blank\" title=\"golden caps\">golden caps<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=stopper&options%5Bprefix%5D=last\" target=\"_blank\" title=\"earring stopper\">earring stopper<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=bracelet+spacer&options%5Bprefix%5D=last\" target=\"_blank\" title=\"bracelet spacer\">bracelet spacer<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=bracelet+findings&options%5Bprefix%5D=last\" target=\"_blank\" title=\"bracelate findings\">bracelate findings<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=clasps&options%5Bprefix%5D=last\" target=\"_blank\" title=\"clasps\">clasps<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=jhumka+base&options%5Bprefix%5D=last\" target=\"_blank\" title=\"jhumka base\">jhumka base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=pachi+jhumka+&options%5Bprefix%5D=last\" target=\"_blank\" title=\"pachi jhumka base\">pachi jhumka base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=silver+jhumki&options%5Bprefix%5D=last\" target=\"_blank\" title=\"silver jhumka base\">silver jhumka base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=silver+jhumki&options%5Bprefix%5D=last\" target=\"_blank\" title=\"silver oxidize jhumka base\">silver oxidize jhumka base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=golden+jhumka+base&options%5Bprefix%5D=last\" target=\"_blank\" title=\"golden jhumka base\">golden jhumka base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=golden+jhumka+base&options%5Bprefix%5D=last\" target=\"_blank\" title=\"golden oxidize jhumka base\">golden oxidize jhumka base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=meenakari+jhumka+base&options%5Bprefix%5D=last\" target=\"_blank\" title=\"meenakari jhumka base\">meenakari jhumka base<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=anklet+finding&options%5Bprefix%5D=last\" target=\"_blank\" title=\"anklet finding\">anklet finding<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=anklet+finding&options%5Bprefix%5D=last\" target=\"_blank\" title=\"payal finding\">payal finding<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=jump+ring&options%5Bprefix%5D=last\" target=\"_blank\" title=\"jump ring\">jump ring<\/a> | <a href=\"https:\/\/naturalbeads.myshopify.com\/search?q=ghungaroo&options%5Bprefix%5D=last\" target=\"_blank\" title=\"ghumgaroo\">ghungroo<\/a> | <a href=\"https:\/\/suncitybeads.com\/search?q=clasps\" target=\"_blank\" title=\"https:\/\/suncitybeads.com\/search?q=clasps\">clasps<\/a><\/p><p><\/p>"
+            }
+          },
+          "social": {
+            "type": "social",
+            "settings": {
+              "title": "Follow us",
+              "align": "left"
+            }
+          }
+        },
+        "block_order": [
+          "linklist",
+          "013a7b8c-0434-4ec2-9d4f-b09d775972ee",
+          "b9d2d67e-02f6-41da-89bb-f18a7386aad7",
+          "6332159e-4df3-459c-b4e8-8734dd7995f4",
+          "4b176dd8-2664-4308-8cbd-779da9c18f23",
+          "0e924315-f05c-4825-b09e-d44097d3e355",
+          "social"
+        ],
+        "settings": {
+          "show_payment_icons": true
+        }
+      },
+      "featured-collections": {
+        "type": "featured-collections",
+        "blocks": {
+          "featured-collections-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "agate-beads"
+            }
+          },
+          "featured-collections-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "tumble-stone-beads"
+            }
+          },
+          "featured-collections-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "loreal-hanging-beads"
+            }
+          },
+          "4aeec5a2-0068-4820-9e49-c9cd34d6e98e": {
+            "type": "collection",
+            "settings": {
+              "collection": "crystal-beads"
+            }
+          },
+          "45ef164b-aeb3-4b65-9cca-a42114e64e41": {
+            "type": "collection",
+            "settings": {
+              "collection": "fancy-beads"
+            }
+          },
+          "ff6ba181-a0ba-4206-ac20-b43570bd3f9c": {
+            "type": "collection",
+            "settings": {
+              "collection": "pearl-beads"
+            }
+          }
+        },
+        "block_order": [
+          "featured-collections-0",
+          "featured-collections-1",
+          "featured-collections-2",
+          "4aeec5a2-0068-4820-9e49-c9cd34d6e98e",
+          "45ef164b-aeb3-4b65-9cca-a42114e64e41",
+          "ff6ba181-a0ba-4206-ac20-b43570bd3f9c"
+        ],
+        "settings": {
+          "stretch_collection_image": false
+        }
+      },
+      "featured-products": {
+        "type": "featured-products",
+        "settings": {
+          "collection": "frontpage",
+          "rows": 2
+        }
+      },
+      "image-content": {
+        "type": "image-content",
+        "disabled": true,
+        "blocks": {
+          "image-content-0": {
+            "type": "image_block",
+            "settings": {
+            }
+          },
+          "image-content-1": {
+            "type": "text_block",
+            "settings": {
+              "title": "Image with text",
+              "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+              "align": "left"
+            }
+          }
+        },
+        "block_order": [
+          "image-content-0",
+          "image-content-1"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/A_New_Design_-_Made_with_PosterMyWall.jpg",
+          "logo_max_width": "150",
+          "main_linklist": "main-menu",
+          "promo_bar_enable": true,
+          "promo_bar_text": "Welcome To Suncity Beads",
+          "promo_bar_link": "shopify:\/\/collections\/frontpage"
+        }
+      },
+      "1659507237f16f5e8a": {
+        "type": "featured-collections",
+        "blocks": {
+          "1659507237f16f5e8a-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "kundan-beads"
+            }
+          },
+          "1659507237f16f5e8a-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "kundan-vilandi-dabi"
+            }
+          },
+          "1659507237f16f5e8a-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "kundan-brooch"
+            }
+          },
+          "321b944e-9fe5-4734-9a0e-28eab85b1469": {
+            "type": "collection",
+            "settings": {
+              "collection": "kundan-pendant"
+            }
+          },
+          "d3e02239-29d5-42be-885f-7dc9db2b071c": {
+            "type": "collection",
+            "settings": {
+              "collection": "ad-brooch"
+            }
+          }
+        },
+        "block_order": [
+          "1659507237f16f5e8a-0",
+          "1659507237f16f5e8a-1",
+          "1659507237f16f5e8a-2",
+          "321b944e-9fe5-4734-9a0e-28eab85b1469",
+          "d3e02239-29d5-42be-885f-7dc9db2b071c"
+        ],
+        "settings": {
+          "stretch_collection_image": false
+        }
+      },
+      "165950856154fe02d9": {
+        "type": "featured-collections",
+        "blocks": {
+          "165950856154fe02d9-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "oxidize-metal-beads"
+            }
+          },
+          "165950856154fe02d9-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "oxidize-metal-charms"
+            }
+          },
+          "165950856154fe02d9-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "oxidize-pendants"
+            }
+          },
+          "4833af38-ca5c-4eb6-94b6-c2c085101039": {
+            "type": "collection",
+            "settings": {
+              "collection": "victorian-oxidize-beads"
+            }
+          },
+          "8d86b13f-8549-48a7-9d11-3a8d529fe206": {
+            "type": "collection",
+            "settings": {
+              "collection": "victorian-kundan-brooch"
+            }
+          }
+        },
+        "block_order": [
+          "165950856154fe02d9-0",
+          "165950856154fe02d9-1",
+          "165950856154fe02d9-2",
+          "4833af38-ca5c-4eb6-94b6-c2c085101039",
+          "8d86b13f-8549-48a7-9d11-3a8d529fe206"
+        ],
+        "settings": {
+          "stretch_collection_image": false
+        }
+      },
+      "1659508740d2a532f7": {
+        "type": "featured-collections",
+        "blocks": {
+          "1659508740d2a532f7-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "findings"
+            }
+          },
+          "1659508740d2a532f7-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "earring-findings"
+            }
+          },
+          "1659508740d2a532f7-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "connector-divider"
+            }
+          },
+          "6428959b-1180-494b-9c70-905e48d29974": {
+            "type": "collection",
+            "settings": {
+              "collection": "caps"
+            }
+          },
+          "71d7fa20-2da8-45ed-aa19-40391a2dbc76": {
+            "type": "collection",
+            "settings": {
+              "collection": "metal-chain"
+            }
+          },
+          "f9c85610-c2c8-4420-9922-7aa808004d75": {
+            "type": "collection",
+            "settings": {
+              "collection": "jewellery-tools"
+            }
+          }
+        },
+        "block_order": [
+          "1659508740d2a532f7-0",
+          "1659508740d2a532f7-1",
+          "1659508740d2a532f7-2",
+          "6428959b-1180-494b-9c70-905e48d29974",
+          "71d7fa20-2da8-45ed-aa19-40391a2dbc76",
+          "f9c85610-c2c8-4420-9922-7aa808004d75"
+        ],
+        "settings": {
+          "stretch_collection_image": false
+        }
+      },
+      "165950906334693776": {
+        "type": "featured-collections",
+        "blocks": {
+          "165950906334693776-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "chokkar-set"
+            }
+          },
+          "165950906334693776-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "bangles-bracelate"
+            }
+          },
+          "165950906334693776-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "jadau-beads-necklace"
+            }
+          },
+          "cd70427d-9354-4152-94e6-2ccd4cf6b61c": {
+            "type": "collection",
+            "settings": {
+              "collection": "earrings"
+            }
+          }
+        },
+        "block_order": [
+          "165950906334693776-0",
+          "165950906334693776-1",
+          "165950906334693776-2",
+          "cd70427d-9354-4152-94e6-2ccd4cf6b61c"
+        ],
+        "settings": {
+          "stretch_collection_image": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "enable_ajax": true,
+          "stock_enable": false,
+          "enable_payment_button": true,
+          "social_sharing_products": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "You may also like"
+        }
+      },
+      "collection-filters": {
+        "type": "collection-filters",
+        "settings": {
+          "product_tags_enable": true,
+          "product_sorting_enable": true
+        }
+      }
+    },
+    "content_for_index": [
+      "slideshow",
+      "featured-collections",
+      "1659507237f16f5e8a",
+      "165950856154fe02d9",
+      "1659508740d2a532f7",
+      "165950906334693776"
+    ],
+    "blocks": {
+      "8627230435801854886": {
+        "type": "shopify:\/\/apps\/elsner-advanced-wishlist\/blocks\/wishlist\/f48225ed-6644-4a22-867f-967d700000c1",
+        "disabled": false,
+        "settings": {
+          "visible_page_button": true,
+          "target_class": ".grid.product-grid. .grid_item"
+        }
+      },
+      "10482022236191052793": {
+        "type": "shopify:\/\/apps\/one-upsell-pop-ups-email-sms\/blocks\/app-embed\/132e40c2-70ba-43b3-a955-a0fc9d4c0be8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "1251128615222945960": {
+        "type": "shopify:\/\/apps\/post-checkout-upsells-promos\/blocks\/app-embed\/ea24a4f3-06ec-4555-b927-79ef4ba4841e",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "3096187611976841019": {
+        "type": "shopify:\/\/apps\/search-me-speed-seo-booster\/blocks\/app-embed\/29f6c508-9bb9-4e93-9f98-b637b62f3552",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Snowboards": {
+      "checkout_accent_color": "#006eff",
+      "checkout_banner_background_color": "#fff",
+      "checkout_button_color": "#006eff",
+      "checkout_call_to_action_color": "#006eff",
+      "checkout_use_header_image": false,
+      "color_body_bg": "#f7f7f7",
+      "color_body_headings": "#030303",
+      "color_body_text": "#666",
+      "color_button_bg": "#006eff",
+      "color_button_text": "#fff",
+      "color_content_bg": "#fff",
+      "color_footer_bg": "#030303",
+      "color_footer_text": "#fff",
+      "color_header_bg": "#030303",
+      "color_header_links": "#fff",
+      "color_hero_bg": "#006eff",
+      "color_hero_text": "#fff",
+      "color_newsletter_input": "#1a1a1a",
+      "type_accent_family": "unica_one_n4",
+      "type_accent_spacing": true,
+      "type_accent_transform": true,
+      "type_base_family": "karla_n4",
+      "type_base_size": "16px",
+      "type_nav_size": "14px",
+      "type_nav_spacing": true,
+      "type_nav_transform": true,
+      "sections": {
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "placeholder-0": {
+              "type": "slide",
+              "settings": {
+              }
+            },
+            "placeholder-1": {
+              "type": "slide",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "placeholder-0",
+            "placeholder-1"
+          ],
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "linklist": {
+              "type": "menu",
+              "settings": {
+              }
+            },
+            "social": {
+              "type": "social",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "linklist",
+            "social"
+          ],
+          "settings": {
+          }
+        },
+        "featured-collections": {
+          "type": "featured-collections",
+          "blocks": {
+            "featured-collections-0": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "featured-collections-1": {
+              "type": "collection",
+              "settings": {
+              }
+            },
+            "featured-collections-2": {
+              "type": "collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "featured-collections-0",
+            "featured-collections-1",
+            "featured-collections-2"
+          ],
+          "settings": {
+          }
+        },
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "image-content": {
+          "type": "image-content",
+          "blocks": {
+            "image-content-0": {
+              "type": "image_block",
+              "settings": {
+              }
+            },
+            "image-content-1": {
+              "type": "text_block",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "image-content-0",
+            "image-content-1"
+          ],
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "featured-collections",
+        "featured-products",
+        "image-content"
+      ]
+    },
+    "Outdoors": {
+      "checkout_accent_color": "#f4743c",
+      "checkout_banner_background_color": "#fff",
+      "checkout_button_color": "#f4743c",
+      "checkout_call_to_action_color": "#f4743c",
+      "checkout_use_header_image": false,
+      "color_body_bg": "#f7f7f7",
+      "color_body_headings": "#1a1a1a",
+      "color_body_text": "#666",
+      "color_button_bg": "#c04f1d",
+      "color_button_text": "#fff",
+      "color_content_bg": "#ffffff",
+      "color_footer_bg": "#213236",
+      "color_footer_text": "#fff",
+      "color_header_bg": "#213236",
+      "color_header_links": "#ffffff",
+      "color_hero_bg": "#f4743c",
+      "color_hero_text": "#fff",
+      "color_newsletter_input": "#425154",
+      "type_accent_family": "lora_n7",
+      "type_accent_spacing": false,
+      "type_accent_transform": false,
+      "type_base_family": "roboto_n4",
+      "type_base_size": "14px",
+      "type_nav_size": "15px",
+      "type_nav_spacing": false,
+      "type_nav_transform": false
+    },
+    "Boxing": {
+      "checkout_accent_color": "#d8232f",
+      "checkout_banner_background_color": "#fff",
+      "checkout_button_color": "#d8232f",
+      "checkout_call_to_action_color": "#d8232f",
+      "checkout_use_header_image": false,
+      "color_body_bg": "#f0f0f0",
+      "color_body_headings": "#222222",
+      "color_body_text": "#666",
+      "color_button_bg": "#d8232f",
+      "color_button_text": "#fff",
+      "color_content_bg": "#ffffff",
+      "color_footer_bg": "#222222",
+      "color_footer_text": "#ffffff",
+      "color_header_bg": "#222222",
+      "color_header_links": "#ffffff",
+      "color_hero_bg": "#d8232f",
+      "color_hero_text": "#fff",
+      "color_newsletter_input": "#303030",
+      "type_accent_family": "open_sans_condensed_n7",
+      "type_accent_spacing": false,
+      "type_accent_transform": true,
+      "type_base_family": "source_sans_pro_n4",
+      "type_base_size": "17px",
+      "type_nav_size": "14px",
+      "type_nav_spacing": true,
+      "type_nav_transform": true
+    }
+  }
+}
